@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1031467217223",
+    "project_id": "selo03",
+    "storage_bucket": "selo03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031467217223:android:e78db56d0a2f3848335c62",
+        "android_client_info": {
+          "package_name": "com.example.selo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031467217223-db7chj8ndrm6ui790do3q5t4mbs9s3ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.selo",
+            "certificate_hash": "5b8ddf650acfc1b2c266787909cd93867f789c35"
+          }
+        },
+        {
+          "client_id": "1031467217223-4smik6bp66rao722h64dblf15seq3r9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_jY6EjwcRdmC8ysxSXPz7F4g6_UCbjqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031467217223-4smik6bp66rao722h64dblf15seq3r9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
